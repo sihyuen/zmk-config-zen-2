@@ -42,10 +42,10 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&kp TAB         &kp Q  &kp W  &kp E     &kp R  &kp T          &kp Y        &kp U  &kp I      &kp O    &kp P     &kp BSPC
-&kp LCTRL       &kp A  &kp S  &kp D     &kp F  &kp G          &kp H        &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
-&kp LEFT_SHIFT  &kp Z  &kp X  &kp C     &kp V  &kp B          &kp N        &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RIGHT_SHIFT
-                              &kp LGUI  &mo 1  &lt 3 SPACE    &lt 3 ENTER  &mo 2  &kp RALT
+&kp PG_UP       &kp ESCAPE  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS    &kp INS        &kp DELETE  &kp PRINTSCREEN  &kp PAUSE_BREAK       &kp SCROLLLOCK         &kp BACKSLASH
+&kp PG_DN       &kp STAR    &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp ENTER       &kp HOME       &kp UP      &kp END          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES
+&kp LEFT_SHIFT  &kp SLASH   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp EQUAL       &kp LEFT       &kp DOWN    &kp RIGHT        &kp BACKSPACE         &kp FSLH               &kp ENTER
+                                             &kp KP_NUMBER_0  &kp KP_DOT       &kp HOME        &kp SEMICOLON  &kp END     &kp EQUAL
             >;
         };
 
